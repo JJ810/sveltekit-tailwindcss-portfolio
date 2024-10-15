@@ -3,10 +3,10 @@
 
 	let steps = [
 		{
-			name: 'Smoljames Store',
+			name: 'Test Store',
 			icon: 'fa-solid fa-cart-shopping',
 			description:
-				'Smoljames Store is a a merchanising store created with Next.js, Commerce.js & Stripe! Commerce.js is a CMS for managing project and Stripe is used for all transaction handling.'
+				'Test Store is a a merchanising store created with Next.js, Commerce.js & Stripe! Commerce.js is a CMS for managing project and Stripe is used for all transaction handling.'
 		},
 		{
 			name: 'Utlimate Todos',
@@ -46,7 +46,7 @@
 	<section id="introPage" class="grid grid-cols-1 lg:grid-cols-2 gap-10 py-8 sm:py-14">
 		<div class="flex flex-col lg:justify-center text-center lg:text-left gap-6 md:gap-8 lg:gap-10">
 			<h2 class="font-semibold text-4xl sm:text-5xl md:text-6xl">
-				Hi! I'm <span class="poppins text-violet-400">Jesse</span> Pinzon
+				Hi! I'm <span class="poppins text-violet-400">JJ810</span>
 				<br />Full Stack
 				<span class="poppins text-violet-400">Developer</span>
 			</h2>
